@@ -1,0 +1,6 @@
+comment = 'ActivityPub federation for PostgreSQL'
+default_version = '0.2.0'
+relocatable = false
+superuser = false
+trusted = true
+requires = 'pgcrypto'
